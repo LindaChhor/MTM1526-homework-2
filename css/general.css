@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+html {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	left: 400px;
+	top: 300px;
+	
+	-moz-transition: all 200ms linear;
+	-webkit-transition: all 200ms linear;
+	-ms-transition: all 200ms linear;
+	-moz-transition: all 200ms linear;
+	-o-transition: all 200ms linear;
+	transition: all 200ms linear;
+}
+
+h1 {
+	color:#FFF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body { 
+	margin: 0 auto;
+	padding: 0;
+	background-image:url(../images/fridge.jpg);
+	background-repeat: no-repeat;
+	background-color: #fff;
+}
+
+.thislist {
+	color: #FFF;
+	font-family:"Arial Black", Gadget, sans-serif;
+}
